@@ -55,4 +55,7 @@ class FizzBuzz {
         i++; // Don't forget to increment i
         return i;
     }
+
+    public static void doFizzBuzz(int i) {
+    }
 }
